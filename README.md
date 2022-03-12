@@ -22,7 +22,7 @@ The purpose of this task is to create a blockchain based ledger system.  The scr
 
 ## Full Blockchain
 
-![Full Block](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Diff%204.png)
+![Full Block](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Entire%20chain.png)
 
 
 
