@@ -28,4 +28,4 @@ The purpose of this task is to create a blockchain based ledger system.  The scr
 
 ## Blockchain Validation
 
-![Validation](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Diff%205.png)
+![Validation](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Valid%20Test.png)
