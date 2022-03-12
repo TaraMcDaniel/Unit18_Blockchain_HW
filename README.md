@@ -10,22 +10,22 @@ The purpose of this task is to create a blockchain based ledger system.  The scr
 
 ## Difficulty Level 2
 
-![Diff 2](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/commit/e59e82b53a70e9e6376bc04569c094cd361bd627)
+![Diff 2](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Diff%202.png)
 
 
 
 ## Difficulty Level 5
 
-![Diff 5](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/commit/e59e82b53a70e9e6376bc04569c094cd361bd627)
+![Diff 5](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Diff%203.png)
 
 
 
 ## Full Blockchain
 
-![Full Block](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/commit/e59e82b53a70e9e6376bc04569c094cd361bd627)
+![Full Block](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Diff%204.png)
 
 
 
 ## Blockchain Validation
 
-![Validation](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/commit/e59e82b53a70e9e6376bc04569c094cd361bd627)
+![Validation](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/blob/main/images/Diff%205.png)
