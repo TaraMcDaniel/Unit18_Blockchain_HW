@@ -4,7 +4,7 @@ The purpose of this task is to create a blockchain based ledger system.  The scr
 
 ## Difficulty Level 1
 
-![Diff 1](https://github.com/TaraMcDaniel/Unit18_Blockchain_HW/commit/e59e82b53a70e9e6376bc04569c094cd361bd627)
+![Diff 1](images/Diff 1.png)
 
 
 
